@@ -44,7 +44,7 @@ def Membership():
             else:
                 diskon = i * (10/100)
                 print("Selamat! Anda mendapatkan Promo diskon sebesar 10%")
-        elif level == "Gold":
+        elif level == "Emas":
             if u < 5:
                 diskon = i * (10/100)
                 print("Selamat! Anda mendapatkan Promo diskon sebesar 10%")
